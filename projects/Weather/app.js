@@ -10,7 +10,7 @@ app.get("/",function(req,res){
 });
 
 app.post("/",function(req,res){
-	const apiKey = "664c84ecef4443fd34c2fc3b9dc197de";
+	const apiKey = "###############################";
 	var state = req.body.state;
 	var units = "metric";
 
